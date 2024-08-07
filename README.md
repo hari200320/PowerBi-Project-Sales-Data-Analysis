@@ -5,7 +5,7 @@ The Sales Data Analysis Dashboard is a Power BI project designed to provide a de
 
 Dataset:
 <li>
-The dataset used in this analysis includes the following key information:
+<ul>The dataset used in this analysis includes the following key information:</ul>
 
 Sales Data: Transactions recorded from 2017 to 2020, including revenue figures and sales quantities.
 

@@ -41,3 +41,6 @@ Analysis: Conducted in-depth analysis to uncover patterns in market performance,
 Conclusion:
 
 This project demonstrates how data visualization can enhance the understanding of sales dynamics and market performance. The Power BI dashboards provide a detailed view of revenue, customer engagement, and product success, enabling businesses to make informed decisions and drive growth.
+
+
+![Screenshot (193))](https://github.com/user-attachments/assets/87086501-f476-40a5-93d9-5856ab3a20f2)
